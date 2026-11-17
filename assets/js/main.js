@@ -1,5 +1,5 @@
 /**
- * LimoConnect — Header Navigation & Interactive Controls
+ * LimoConnect, Header Navigation & Interactive Controls
  */
 (function () {
   'use strict';

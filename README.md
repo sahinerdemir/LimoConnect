@@ -1,4 +1,4 @@
-# LimoConnect — Luxury Chauffeur & Transportation Services
+# LimoConnect, Luxury Chauffeur & Transportation Services
 
 A modern, high-performance, and responsive web experience for **LimoConnect**, a premier luxury chauffeur and transportation service provider.
 
